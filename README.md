@@ -14,16 +14,17 @@ I learned quite a bit about layout and consolidation of css during this process
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Features](#features)
 - [License](#license)
+- [Features](#features)
 
 ## Installation
-Go to the webpage and view site through any browser. 
+Use any browser to visit site:
+https://kimberlyseddon.github.io/horiseon-refractor/
 
 ## Usage
 View this page to learn more about Horiseon's ad agency and what they can offer clients.
-    ```md
-    ![image of project website](assets/images/horiseon-webpage.png)
+    ![image of project website.](assets\images\horiseon-webpage.png)
+    <!-- (.assets/images/horiseon-webpage.png) -->
     ```
 ## Credits
 N/A
